@@ -1,7 +1,0 @@
-{
-  "name": "Gemini OmniChat",
-  "description": "Professional AI chat with Streaming, File Attachments (Paste supported), Gemini 3/2.5 Pro/Flash models, and 50+ tools.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
